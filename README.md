@@ -1,5 +1,4 @@
 ## Hi, I'm Mohammad Razavi 👋
-
 Full-Stack Developer, always eager to learn, improve, and contribute to open-source projects.  
 Passionate about creating and innovating new solutions.
 
@@ -10,5 +9,5 @@ MongoDB • PostgreSQL • MySQL • Prisma • TypeORM • Mongoose
 GraphQL • Linux • Git
 
 ### Contact
-- **Email**: mohammad.razavi.ansari.5207@gmail.com
-- **Telegram**: [Telegram](https://t.me/mohammad_razavi)
+Email: mohammad.razavi.ansari.5207@gmail.com  
+Telegram: [mohammad_razavi](https://t.me/mohammad_razavi)
